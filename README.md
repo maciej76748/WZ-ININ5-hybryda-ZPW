@@ -18,7 +18,7 @@ Zrzut ekranu strony głównej:
 | UI kit | Bootstrap 5 |
 | Narzędzia | Vite + ESBuild, Prettier |
 
-##Twórcy
+## Twórcy
 
 Maciej 76748
 
